@@ -1,4 +1,4 @@
- # 🎨 35 CSS Keyframe Animations — codepaila CSS Library
+ # 🎨 35 CSS Keyframe Animations — CSS Library
 
 <div align=""center"">
 
@@ -10,7 +10,7 @@
 **A complete collection of 35 ready-to-use CSS @keyframes animations**  
 *Perfect for beginners, developers, and designers*
 
-[📺 Watch Demo](#) • [🚀 Live Preview](#) • [📱 Follow @codepaila](#)
+<!-- [📺 Watch Demo](#) • [🚀 Live Preview](#) • [📱 Follow @codepaila](#) -->
 
 </div>
 
